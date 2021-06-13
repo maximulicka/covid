@@ -1,6 +1,6 @@
 {
-  "homepage": "http://maximulicka.github.io/covid-app",
-  "name": "covid-app",
+  "homepage": "http://maximulicka.github.io/covid",
+  "name": "covid",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
